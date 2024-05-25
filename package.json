@@ -1,0 +1,14 @@
+{
+  "name": "nwd-project",
+  "version": "1.0.0",
+  "description": "reference code for nwd signals talk",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "author": "Nir Kaufman <nirkaufman@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
